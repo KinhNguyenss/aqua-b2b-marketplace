@@ -43,16 +43,6 @@ AquaTrust là nền tảng thương mại điện tử B2B chuyên biệt dành 
 
 ---
 
-## 👨‍💻 Đội ngũ phát triển (Team Members)
-
-Dự án được xây dựng và phát triển bởi 3 thành viên:
-
-- **Kính:** Backend Core, Smart Contract (Solidity/Hardhat), Web3 Integration & IPFS.
-- **Thảo:** Trí tuệ nhân tạo (AI YOLO Dataset & Training), Frontend UI/UX (Next.js/Tailwind).
-- **Vy:** Database Architecture (MySQL), Backend APIs & Frontend Logic Binding.
-
----
-
 ## 🚀 Hướng dẫn Cài đặt (Installation Guide)
 
 ### 1. Yêu cầu hệ thống (Prerequisites)
