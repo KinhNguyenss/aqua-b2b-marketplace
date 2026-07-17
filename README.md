@@ -57,8 +57,7 @@ AquaTrust là nền tảng thương mại điện tử B2B chuyên biệt dành 
 **Bước 1: Clone repository**
 
 ```bash
-git clone [https://github.com/your-username/aqua-trust.git](https://github.com/your-username/aqua-trust.git)
-cd aqua-trust
+git clone https://github.com/KinhNguyenss/aqua-b2b-marketplace.git
 ```
 
 ````
